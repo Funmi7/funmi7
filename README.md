@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Funmi
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=funmi7&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=funmi7&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Funmi7/funmi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
